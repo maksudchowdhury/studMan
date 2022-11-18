@@ -28,3 +28,8 @@ manage student result
 
 view student result history
 ![image](https://user-images.githubusercontent.com/45464612/202773124-9a6c6db3-720d-46d4-b23f-0b796be26b09.png)
+
+admin account settings
+![image](https://user-images.githubusercontent.com/45464612/202773505-5836491d-04c2-4daf-8581-b60c03ab9420.png)
+
+![image](https://user-images.githubusercontent.com/45464612/202773520-b0f16824-c6cf-45d5-95d6-b876d394eaac.png)
