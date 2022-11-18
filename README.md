@@ -2,10 +2,13 @@
 a complete system that can manage student accounts and results with an interactive UI
 
 To setup the project,
- **1.  first place the mainapp folder in your XAMPP htdocs directory.
- 2.  Then import the database.sql in your phpMyAdmin**
+ **1.  first place the mainapp folder in your XAMPP htdocs directory.<br>
+ 2.  Then import the database.sql in your phpMyAdmin <br>
+ 3.  The default credential for an admin is username: admin, password: admin <br>
+ 4.  The default credential for a student is username: 2019160182, password: 1 <br>
+ 5.  These account credentials can be changed directly from the database** <br>
 
-the web application looks like this after deployment,
+the web application looks like this after deployment, <br>
 
 student login panel
 ![image](https://user-images.githubusercontent.com/45464612/202771754-d714abe3-701a-4c55-ab3d-e13c759fbb57.png)
