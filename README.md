@@ -7,7 +7,7 @@ To setup the project,
  **1.  first place the mainapp folder in your XAMPP htdocs directory.<br>
  2.  Then import the database.sql in your phpMyAdmin <br>
  3.  The default credential for an admin is username: admin, password: admin <br>
- 4.  The default credential for a student is username: 2019160182, password: 1 <br>
+ 4.  The default credential for a student is username: 2019460182, password: student <br>
  5.  These account credentials can be changed directly from the database** <br>
 
 the web application looks like this after deployment, <br>
