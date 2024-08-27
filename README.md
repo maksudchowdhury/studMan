@@ -1,6 +1,8 @@
 # studMan
 a complete system that can manage student accounts and results with an interactive UI
 
+<a href="https://link.maksud.xyz/srms" class="button primary">Live Demo</a> 
+
 To setup the project,
  **1.  first place the mainapp folder in your XAMPP htdocs directory.<br>
  2.  Then import the database.sql in your phpMyAdmin <br>
