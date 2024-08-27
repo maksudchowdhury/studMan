@@ -3,7 +3,7 @@ a complete system that can manage student accounts and results with an interacti
 
 <a href="https://link.maksud.xyz/srms" class="button primary">Live Demo</a> 
 
-To setup the project,
+To setup the project, <br>
  **1.  first place the mainapp folder in your XAMPP htdocs directory.<br>
  2.  Then import the database.sql in your phpMyAdmin <br>
  3.  The default credential for an admin is username: admin, password: admin <br>
